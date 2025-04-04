@@ -1,0 +1,82 @@
+.navbar ul{
+            margin-left: 900px;
+            position:sticky;
+
+            }
+.nav-item{
+    margin-left: 20px;
+}
+
+.sr {
+    text-align: center;
+    margin-top: 15px;
+    font-family:serif;
+    color: white;
+}
+.card
+{
+    background-color:rgb(237, 236, 234);
+}
+.card1{
+    background-color: rgb(224, 218, 218);
+    position: relative;
+    bottom: 30px;
+
+}
+.tag{
+    text-align: center;
+    position: relative;
+    margin-top: 40px;
+    color: black;
+    text-shadow:ivory;
+    font-family:serif;
+}
+.col2{
+    
+    background-color: rgb(125, 112, 97);
+}
+.col img:hover{
+    transition: transform ease-in;
+    transform: scale(1.05,1.05);
+
+}
+.rowp{
+    background-image: linear-gradient(rgb(158, 46, 46) rgb(156, 123, 123));
+  
+}
+.form-label{
+    text-align: center;
+}
+.container img:hover{
+    
+
+}
+.bann{
+    background-image: url("../images/c8.jpg");
+    height: 800px;
+    text-align: center;
+}
+.card11{
+    text-align: center;
+    opacity: 0.5;
+    position: relative;
+    top: 660px;
+    color:black;
+}
+.bann h1{
+    position: relative;
+    top: 400px;
+}
+.bann p{
+    position: relative;
+    top: 405px;
+}
+.form{
+    background-image: url("../images/backform3.jpg");
+    color:white;
+    height: 600px;
+}
+.but{
+    position: relative;
+    margin-right: 100px;
+}
